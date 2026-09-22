@@ -43,4 +43,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
     - Its a way to prevent styles from clashing or overwriting each other.
     - the classes we define in css module will end up being properties of the object.
     - Always use camleCases classes.
-    - When building our applications, next JS uses post CSS to transform our class names and generate unique class names that dont clash
+    - When building our applications, next JS uses post CSS to transform our class names and generate unique class names that    dont clash
+
+# Tailwind
+
+    - With tailwind, when we build our application, our final CSS bundle will only have the utility classes that we have used in our markup.
