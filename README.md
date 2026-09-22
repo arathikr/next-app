@@ -48,3 +48,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Tailwind
 
     - With tailwind, when we build our application, our final CSS bundle will only have the utility classes that we have used in our markup.
+
+# daisy UI
+
+    - The most popular component library for Taiwind Css [daisyui.com]
