@@ -4,7 +4,6 @@ import AddToCart from "./AddToCart";
 const ProductCard = () => {
   return (
     <div>
-      ProductCard
       {/* <button onClick={() => console.log("CLick")}>Add to Cart</button> */}
       <AddToCart />
     </div>
